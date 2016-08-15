@@ -12,4 +12,56 @@
 
     <!-- Nome da cateria Povos Nativos -->
     <string name="povos_nativos_categoria">Povos Nativos</string>
+
+    <string-array name="bichos">
+        <item>Acaé</item>
+        <item>Acanguçu</item>
+        <item>Acará</item>
+        <item>Acará-açu</item>
+        <item>Açu</item>
+        <item>Anu</item>
+        <item>Apiacá</item>
+        <item>Araponga</item>
+        <item>Arapuã</item>
+        <item>Arara</item>
+    </string-array>
+
+    <string-array name="culinaria">
+        <item>Abacate</item>
+        <item>Abacaxi</item>
+        <item>Abati</item>
+        <item>Abunã</item>
+        <item>Açaí</item>
+        <item>Acajá</item>
+        <item>Aipim</item>
+        <item>Bauru</item>
+        <item>Cacau</item>
+        <item>Cará</item>
+    </string-array>
+
+    <string-array name="plantas">
+        <item>Abajá</item>
+        <item>Abajeru</item>
+        <item>Abaracatinga</item>
+        <item>Abatiputá</item>
+        <item>Abiurana</item>
+        <item>Abutua</item>
+        <item>Acaiaca</item>
+        <item>Acapu</item>
+        <item>Aguapé</item>
+        <item>Aipim</item>
+    </string-array>
+
+    <string-array name="povos_nativos">
+        <item>Araueté</item>
+        <item>Bacajá</item>
+        <item>Bacuri</item>
+        <item>Bororo</item>
+        <item>Caiapó</item>
+        <item>Caingangue</item>
+        <item>Caiobá</item>
+        <item>Carajás</item>
+        <item>Crenaque</item>
+        <item>Deni</item>
+    </string-array>
 </resources>
