@@ -1,5 +1,6 @@
 package br.com.androidpro.tupicionario;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -16,7 +17,8 @@ public class MainActivity extends AppCompatActivity {
         tvBichos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent i = new Intent(MainActivity.this, BichosActivity.class);
+                startActivity(i);
             }
         });
 
@@ -24,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
         tvCulinaria.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent i = new Intent(MainActivity.this, CulinariaActivity.class);
+                startActivity(i);
             }
         });
 
@@ -32,7 +35,8 @@ public class MainActivity extends AppCompatActivity {
         tvPlantas.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent i = new Intent(MainActivity.this, PlantasActivity.class);
+                startActivity(i);
             }
         });
 
@@ -40,7 +44,8 @@ public class MainActivity extends AppCompatActivity {
         tvPovosNativos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                Intent i = new Intent(MainActivity.this, PovosNativosActivity.class);
+                startActivity(i);
             }
         });
     }
