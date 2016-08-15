@@ -8,33 +8,25 @@
 
     <TextView
         android:id="@+id/tvBichos"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
+        style="@style/CategoriaStyle"
         android:text="@string/bichos_categoria"
         android:background="@color/bichos_categoria" />
 
     <TextView
         android:id="@+id/tvCulinaria"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
+        style="@style/CategoriaStyle"
         android:text="@string/culinaria_categoria"
         android:background="@color/culinaria_categoria" />
 
     <TextView
         android:id="@+id/tvPlantas"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
+        style="@style/CategoriaStyle"
         android:text="@string/plantas_categoria"
         android:background="@color/plantas_categoria" />
 
     <TextView
         android:id="@+id/tvPovosNativos"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
+        style="@style/CategoriaStyle"
         android:text="@string/povos_nativos_categoria"
         android:background="@color/povos_nativos_categoria" />
 
