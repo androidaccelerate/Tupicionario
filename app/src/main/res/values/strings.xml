@@ -26,6 +26,19 @@
         <item>Arara</item>
     </string-array>
 
+    <string-array name="bichos_desc">
+        <item>nome indígena das gralhas, espécie de ave Também conhecida como: acaém, japu Nome de afluente da margem…</item>
+        <item>onça, jaguar Nome científico: (Felis onca) Do Tupi-Guarani: acanga-uçu = cabeça grande  …</item>
+        <item>peixes teleósteos, percomorfos, ciclídeos, fluviais e marinhos, de vários gêneros Também conhecido como…</item>
+        <item>peixe teleósteo, percomorfo, ciclídeo, fluvial Outros nomes: acaraú-açu, acauí-guaçu,…</item>
+        <item>grande, comprido, longo Daí Iguaçu; Mogi-guaçu; Ibiruçu; etc. Açu - Veado Também chamado de…</item>
+        <item>nome de um pássaro "Anu" e "anum" derivam do termo tupi a\'nu. </item>
+        <item>Marimbondo muito agressivo Também conhecido como japicaba. Do tupi guarani: Apia(cá) - homem; caá…</item>
+        <item>Também chamada de "guiraponga", "uiraponga" e "iraponga". Vêm do termo tupi wi\'rá põga, "pássaro…</item>
+        <item>Espécie de abelha Do tupi guarani ara (eira) = abelha, mel; poã = redondo => A abelha que faz o enxu…</item>
+        <item>Jandaia grande, ave grande</item>
+    </string-array>
+
     <string-array name="culinaria">
         <item>Abacate</item>
         <item>Abacaxi</item>
@@ -37,6 +50,19 @@
         <item>Bauru</item>
         <item>Cacau</item>
         <item>Cará</item>
+    </string-array>
+
+    <string-array name="culinaria_desc">
+        <item>Fruto do abacateiro Também chamado de abacado (na Bahia), auacati e avacate. Língua de origem:…</item>
+        <item>Também conhecido como ananás Nome científico: (Ananas comosus) O termo abacaxi é, com forte…</item>
+        <item>Milho Também chamado de ibati, auati, auaci, ubati, ubatim. Língua de origem: Tupi-Guarani aba =…</item>
+        <item>Ovos de tartaruga preparados no moquém. Afluente da margem esquerda do Madeira, limítrofe da Bolívia, AC e…</item>
+        <item>Também chamado yasaí Fruta que chora - fruta de onde sai líquido - coquinho pequeno amarronzado, que…</item>
+        <item>Ou cajá, é o fruto da cajazeira Do Tupi Guarani: ACÃ-JÁ = o fruto de caroço cheio, graúdo; fruto que é…</item>
+        <item>Mandioca Origina-se do termo tupi ai\'pi. De raiz enxuta, mandioca mansa. No Brasil, possui muitos nomes,…</item>
+        <item>Sanduíche quente de pão, presunto, queijo e tomate. O sanduíche foi criado no restaurante Ponto Chic, em…</item>
+        <item>Fruto do cacaueiro O pó solúvel feito com a semente do cacau é matéria-prima do chocolate; A palavra…</item>
+        <item>Trepadeiras dioscoreádeceas; caranambu, caratinga e inhame. Fonte: Dicionário de Palavras Brasileiras de…</item>
     </string-array>
 
     <string-array name="plantas">
@@ -52,6 +78,19 @@
         <item>Aipim</item>
     </string-array>
 
+    <string-array name="plantas_desc">
+        <item>Também conhecida como cola, coleira, colateira, oribi e orobó Língua de origem: Tupi-Guarani Nome…</item>
+        <item>Também conhecido como: gajeru, guajeru, uaieru, apioba Nome científico: (Coupeia canomensis) ABA (iba) =…</item>
+        <item>Também chamada de bracatinga Nome científico: (Mimosa scabrella) O nome é de origem Tupi Guarani…</item>
+        <item>Árvore que produz óleo comestível Do Tupi Guarani ABATI = milho; PUTÁ(ba) = porção, punhado…</item>
+        <item>Também conhecida como biuraua, amaduri e auaduri, abiú piloso e abiú do cerrado é o nome de uma árvore.…</item>
+        <item>Tipo de trepadeira Também chamada abuta, abutá, abutinha, abutua-grande, butirtha, abútua butua, butuá,…</item>
+        <item>E uma árvore, mais conhecida como cedro. Também conhecida como: cedro amarelo, cedro-rosa, cedro-branco,…</item>
+        <item>E o nome de uma árvore Também conhecida como: angelim-de folha-larga, uacapu, pitangueira, agapu,…</item>
+        <item>Provém do tupi awa\'pé. "Mururé" provém do tupi muru\'ré. "Orelha-de-veado" é uma referência ao formato…</item>
+        <item>Mandioca Origina-se do termo tupi ai\'pi. De raiz enxuta, mandioca mansa. No Brasil, possui muitos nomes,…</item>
+    </string-array>
+
     <string-array name="povos_nativos">
         <item>Araueté</item>
         <item>Bacajá</item>
@@ -63,5 +102,18 @@
         <item>Carajás</item>
         <item>Crenaque</item>
         <item>Deni</item>
+    </string-array>
+
+    <string-array name="povos_nativos_desc">
+        <item>Também chamados de araweté ou araueté. Povo de língua da família tupi-guarani, que vive na…</item>
+        <item>Indígenas do município de Senador José Porfírio, no estado do Pará Também o nome de uma espécie de…</item>
+        <item>Guri, garoto Árvore gutífera também chamada de ibacuri, bucurizeiro, bucuri, mucuri, mocuri, mocoii,…</item>
+        <item>Uma das maiores tribos do Brasil central, cujo território atravessava todo o centro do MT, da Bolívia ao…</item>
+        <item>Caiapó é uma exonominação que data do início do século XIX e tem origem em outros grupos indígenas…</item>
+        <item>Nome de um grupo indígena que atualmente está totalmente integrado na sociedade nacional. Ocupam…</item>
+        <item>Tribo Guarani da região de Guaratuba, PR; Praia a 5 km de S. de Matinhos, PR. Do tupi guarani cai - macaco;…</item>
+        <item>São um grupo indígena que falam uma língua alocada ao tronco linguístico macro-jê,</item>
+        <item>Nome de uma tribo indígena que habitava toda a região do Vale do Rio Doce, no estado de Minas…</item>
+        <item>Tribo indígena aruaque, que vive pelos igarapés do vale do rio Cunhuã, entre as desembocaduras dos rios Xiruã</item>
     </string-array>
 </resources>

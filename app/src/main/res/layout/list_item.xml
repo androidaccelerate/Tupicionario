@@ -6,23 +6,27 @@
     android:padding="@dimen/activity_horizontal_margin">
 
     <ImageView
+        android:id="@+id/item_icone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@mipmap/ic_launcher"/>
 
     <LinearLayout
+        android:id="@+id/item_layout_textos"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:paddingLeft="@dimen/activity_horizontal_margin">
 
         <TextView
+            android:id="@+id/item_titulo"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
             android:text="Titulo"/>
 
         <TextView
+            android:id="@+id/item_desc"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1"
